@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rave!
 
-I'm a **Full-Stack Developer 
+I'm a **Full-Stack Developer**
 
 ---
 
