@@ -10,6 +10,7 @@ I'm interested in programming, web development, and cybersecurity.
 
 ![Go](https://skillicons.dev/icons?i=go)
 ![Cpp](https://skillicons.dev/icons?i=cpp)
+![Dart](https://skillicons.dev/icons?i=dart)
 ![Vim](https://skillicons.dev/icons?i=vim)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Docker](https://skillicons.dev/icons?i=docker)
